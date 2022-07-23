@@ -10,3 +10,6 @@ C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\obj\Debug\PDF Resume.vbproj.Core
 C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\obj\Debug\PDF Resume.exe
 C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\obj\Debug\PDF Resume.xml
 C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\obj\Debug\PDF Resume.pdb
+C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\obj\Debug\PDF Resume.vbproj.CopyComplete
