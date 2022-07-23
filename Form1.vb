@@ -9,11 +9,18 @@ Public Class Form1
         PdfWriter.GetInstance(mypdfresume, New FileStream("FLORES_MHARSYDNEY.pdf", FileMode.Create))
         mypdfresume.Open()
         Dim name As Paragraph = New Paragraph(output.FullName)
+        Dim age As Paragraph = New Paragraph(output.Age)
+        Dim address As Paragraph = New Paragraph(output.Address)
+
 
         name.Font.Size = 20
         name.Alignment = Element.ALIGN_CENTER
+        age.Alignment = Element.ALIGN_CENTER
+        address.Alignment = Element.ALIGN_CENTER
 
         mypdfresume.Add(name)
+        mypdfresume.Add(age)
+        mypdfresume.Add(address)
         mypdfresume.Close()
         MessageBox.Show("Successfuly")
 

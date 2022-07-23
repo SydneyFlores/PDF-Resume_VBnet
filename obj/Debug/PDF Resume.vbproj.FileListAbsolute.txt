@@ -15,4 +15,3 @@ C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\bin\Debug\BouncyCastle.Crypto.dll
 C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\bin\Debug\itextsharp.dll
 C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\bin\Debug\itextsharp.xml
-C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\obj\Debug\PDF Resume.vbproj.CopyComplete
