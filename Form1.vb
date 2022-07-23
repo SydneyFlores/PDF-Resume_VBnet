@@ -17,6 +17,8 @@ Public Class Form1
         Dim skills As Paragraph = New Paragraph("SKILLS" & vbLf & output.Skills)
         Dim workexperience As Paragraph = New Paragraph("EXPERIENCE" & vbLf & output.WorkExperience)
         Dim education As Paragraph = New Paragraph("EDUCATION" & vbLf & output.Education)
+        Dim certification As Paragraph = New Paragraph("CERTIFICATION" & vbLf & output.Certification)
+        Dim signature As Paragraph = New Paragraph(vbLf & vbLf & vbLf & output.Signature)
 
 
         name.Font.Size = 20
@@ -25,6 +27,7 @@ Public Class Form1
         address.Alignment = Element.ALIGN_CENTER
         contactnumber.Alignment = Element.ALIGN_CENTER
         emailaddress.Alignment = Element.ALIGN_CENTER
+        signature.Alignment = Element.ALIGN_RIGHT
 
         mypdfresume.Add(name)
         mypdfresume.Add(age)
@@ -35,6 +38,8 @@ Public Class Form1
         mypdfresume.Add(skills)
         mypdfresume.Add(workexperience)
         mypdfresume.Add(education)
+        mypdfresume.Add(certification)
+        mypdfresume.Add(signature)
         mypdfresume.Close()
         MessageBox.Show("Successfuly")
 
