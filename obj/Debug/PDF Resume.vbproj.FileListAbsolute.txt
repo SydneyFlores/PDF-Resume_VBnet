@@ -1,0 +1,12 @@
+C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\bin\Debug\PDF Resume.exe.config
+C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\bin\Debug\PDF Resume.exe
+C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\bin\Debug\PDF Resume.pdb
+C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\bin\Debug\PDF Resume.xml
+C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\obj\Debug\PDF Resume.vbproj.AssemblyReference.cache
+C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\obj\Debug\PDF_Resume.Form1.resources
+C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\obj\Debug\PDF_Resume.Resources.resources
+C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\obj\Debug\PDF Resume.vbproj.GenerateResource.cache
+C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\obj\Debug\PDF Resume.vbproj.CoreCompileInputs.cache
+C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\obj\Debug\PDF Resume.exe
+C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\obj\Debug\PDF Resume.xml
+C:\Users\Mhar Sydney\source\repos\vb\PDF Resume\obj\Debug\PDF Resume.pdb
