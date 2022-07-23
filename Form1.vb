@@ -15,6 +15,8 @@ Public Class Form1
         Dim emailaddress As Paragraph = New Paragraph(output.EmailAddress & vbLf & vbLf & vbLf)
         Dim objective As Paragraph = New Paragraph("OBJECTIVE" & vbLf & vbTab & output.Objective)
         Dim skills As Paragraph = New Paragraph("SKILLS" & vbLf & output.Skills)
+        Dim workexperience As Paragraph = New Paragraph("EXPERIENCE" & vbLf & output.WorkExperience)
+        Dim education As Paragraph = New Paragraph("EDUCATION" & vbLf & output.Education)
 
 
         name.Font.Size = 20
@@ -31,6 +33,8 @@ Public Class Form1
         mypdfresume.Add(emailaddress)
         mypdfresume.Add(objective)
         mypdfresume.Add(skills)
+        mypdfresume.Add(workexperience)
+        mypdfresume.Add(education)
         mypdfresume.Close()
         MessageBox.Show("Successfuly")
 
