@@ -2,7 +2,7 @@
 Imports Newtonsoft.Json
 Public Class Form1
     Private Sub btnconvert_Click(sender As Object, e As EventArgs) Handles btnconvert.Click
-
+        Dim output As mypdfInfo = JsonConvert.DeserializeObject(Of mypdfInfo)(File.ReadAllText("Resume.json"))
     End Sub
     Public Class mypdfInfo
         Public Property FullName As String
